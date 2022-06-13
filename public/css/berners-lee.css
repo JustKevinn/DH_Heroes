@@ -1,0 +1,26 @@
+body{
+    background-image: url("https://itforum.com.br/wp-content/uploads/2019/11/Criador-da-web-Tim-Berners-Lee-lanca-plano-global-para-proteger-a-internet.jpg");
+}
+img{
+    padding-top: 0%;
+ padding-left: 38%;
+}
+
+h1{
+    background-color: rgb(40, 67, 141);
+   color: rgb(0, 0, 0);
+   padding-top: 0%;
+   padding-left: 43%;
+}
+
+h3{
+    background-color: rgba(91, 161, 247, 0.896);
+    color: #011;
+    padding-top: 0%;
+ padding-left: 42%;
+}
+h4{
+    background-color: rgba(61, 141, 239, 0.958);
+    color: #011;
+}
+

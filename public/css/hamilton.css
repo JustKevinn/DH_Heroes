@@ -1,0 +1,25 @@
+body{
+    background-image: url("https://daleel-madani.org/sites/default/files/styles/publication_cover/public/event/margarethamilton.jpg?itok=CRTlJeRY&c=beddc6a953d96a2d1eaad6b42c45c935");
+   
+}
+img{
+    padding-top: 0%;
+ padding-left: 38%;
+}
+
+h1{
+    background-color: rgba(17, 58, 123, 0.872);
+   color: rgb(255, 240, 240);
+   padding-top: 0%;
+   padding-left: 42%;
+}
+h3{
+    background-color: rgba(17, 58, 123, 0.872);
+    color: rgb(255, 255, 255);
+    padding-top: 0%;
+ padding-left: 35%;
+}
+h4{
+    background-color: rgba(245, 245, 220, 0.837);
+    color: #011;
+}

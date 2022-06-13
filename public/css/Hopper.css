@@ -1,0 +1,25 @@
+body{
+    background-image: url("https://military.momcollective.com/wp-content/uploads/2020/09/Grace-Hopper.png");
+   
+}
+img{
+    padding-top: 0%;
+ padding-left: 38%;
+}
+
+h1{
+    background-color: rgba(0, 0, 0, 0.872);
+   color: rgb(255, 240, 240);
+   padding-top: 0%;
+   padding-left: 42%;
+}
+h3{
+    background-color: rgba(0, 0, 0, 0.896);
+    color: rgb(255, 255, 255);
+    padding-top: 0%;
+ padding-left: 41%;
+}
+h4{
+    background-color: rgba(245, 245, 220, 0.837);
+    color: #011;
+}

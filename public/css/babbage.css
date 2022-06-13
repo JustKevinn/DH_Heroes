@@ -1,0 +1,26 @@
+body{
+    background-image: url("https://miro.medium.com/max/1200/1*W-klX_N5SYSF-23Wgs-_yg.png");
+}
+
+img{
+    padding-top: 0%;
+ padding-left: 38%;
+}
+
+h1{
+    background-color: rgba(0, 0, 0, 0.338);
+   color: rgb(255, 244, 244);
+   padding-top: 0%;
+   padding-left: 43%;
+}
+
+h3{
+    background-color: rgba(245, 245, 220, 0.995);
+    color: #011;
+    padding-top: 0%;
+ padding-left: 30%;
+}
+h4{
+    background-color: rgba(245, 245, 220, 0.932);
+    color: #011;
+}

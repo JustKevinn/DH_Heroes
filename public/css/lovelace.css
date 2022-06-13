@@ -1,0 +1,25 @@
+body{
+    background-image: url("https://wallpaperaccess.com/full/1819238.jpg");
+}
+
+img{
+    padding-top: 0%;
+ padding-left: 38%;
+}
+
+h1{
+    background-color: rgba(0, 0, 0, 0.338);
+   color: rgb(203, 191, 191);
+   padding-top: 0%;
+   padding-left: 43%;
+}
+h3{
+    background-color: rgba(245, 245, 220, 0.896);
+    color: #011;
+    padding-top: 0%;
+ padding-left: 37%;
+}
+h4{
+    background-color: rgba(245, 245, 220, 0.837);
+    color: #011;
+}
